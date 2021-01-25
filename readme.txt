@@ -4,3 +4,4 @@ new try on "git commit"
 new try on "git diff"
 branch started
 another branch
+branch three
